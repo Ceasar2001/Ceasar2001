@@ -1,6 +1,6 @@
 # 👨‍💻🖥 Ceasar Ian I. Ecleo
 
-**`~$ sudo ceasar> : (Bachelor of Science in Information Technology)`**
+**`~$ sudo ceasar> : (Bachelor of Science in Information Technology);`**
 
 
 # MY STATS 
@@ -34,5 +34,5 @@
 #
 
 <details>
- <summary><h3>👨‍💻 Ceasar's Coding Journey You can click if you wanted to red. 😁</h3></summary>
+ <summary><h3>👨‍💻 Ceasar's Coding Journey You can click if you wanted to read. 😁</h3></summary>
  I am a 3rd year student now at Caraga State University Currently Taking Bachelor of Science in Information Technology, I started coding on year 2020 when I was 1st year college, The first programming language that i wrote was Java and it was hard to learn Java but i code and practice everyday for 1hour to learn that programming language. my journey in this field was hard and challenging because there are so many diffeculties but i treat it as a hobby. Now i am exploring some programming languages, Databases and some framesworks to create a web-pages.
