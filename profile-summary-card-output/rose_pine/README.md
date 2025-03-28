@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Ceasar2001/Ceasar2001/master/profile-summary-card-output/rose_pine/4-productive-time.svg)
-```
-
-    
