@@ -1,6 +1,6 @@
 # 👨‍💻🖥 Ceasar Ian I. Ecleo
 
-**`~$ sudo ceasar> : (INFORMATION TECHNOLOGY STAFF);`**
+**`~$ sudo ceasar> : (INFORMATION and COMMUNICATION TECHNOLOGY STAFF);`**
 
 
 # MY STATS 
