@@ -1,6 +1,6 @@
 # 👨‍💻🖥 Ceasar Ian I. Ecleo
 
-**`~$ sudo ceasar> : (Bachelor of Science in Information Technology);`**
+**`~$ sudo ceasar> : (INFORMATION TECHNOLOGY STAFF);`**
 
 
 # MY STATS 
